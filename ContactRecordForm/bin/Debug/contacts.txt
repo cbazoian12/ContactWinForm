@@ -1,0 +1,7 @@
+Name HouseNumber Street City State Zip
+John Smith,1234,Glen Creek,Riverside,California,29837
+Jane Doe,3940,Brush College Rd.,Salem,Oregon,93887
+Bill Johnson,3938,River Rd.,Turner,Oregon,39837
+Suzy Dunkan,3948,Canyon Dr.,Riverdale,Montana,39487
+Jack Mann,3940,Lake Blvd.,Jacksonville,Wyoming,39403
+Bill Dunham,3940,Circle Dr.,Westside,Kansas,39403

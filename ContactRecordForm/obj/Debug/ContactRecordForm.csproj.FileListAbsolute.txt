@@ -1,0 +1,9 @@
+C:\Users\cbazoian\Source\Workspaces\ContactRecordForm\ContactRecordForm\bin\Debug\ContactRecordForm.exe.config
+C:\Users\cbazoian\Source\Workspaces\ContactRecordForm\ContactRecordForm\bin\Debug\ContactRecordForm.exe
+C:\Users\cbazoian\Source\Workspaces\ContactRecordForm\ContactRecordForm\bin\Debug\ContactRecordForm.pdb
+C:\Users\cbazoian\Source\Workspaces\ContactRecordForm\ContactRecordForm\obj\Debug\ContactRecordForm.csprojResolveAssemblyReference.cache
+C:\Users\cbazoian\Source\Workspaces\ContactRecordForm\ContactRecordForm\obj\Debug\ContactRecordForm.Properties.Resources.resources
+C:\Users\cbazoian\Source\Workspaces\ContactRecordForm\ContactRecordForm\obj\Debug\ContactRecordForm.csproj.GenerateResource.Cache
+C:\Users\cbazoian\Source\Workspaces\ContactRecordForm\ContactRecordForm\obj\Debug\ContactRecordForm.exe
+C:\Users\cbazoian\Source\Workspaces\ContactRecordForm\ContactRecordForm\obj\Debug\ContactRecordForm.pdb
+C:\Users\cbazoian\Source\Workspaces\ContactRecordForm\ContactRecordForm\obj\Debug\ContactRecordForm.RecordDateGridView.resources
